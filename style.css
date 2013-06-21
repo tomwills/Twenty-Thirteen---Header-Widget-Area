@@ -22,3 +22,7 @@ License URI:    http://www.gnu.org/licenses/gpl-2.0.html
 .site-title, .site-description {
     clear: none;
 }
+
+.site-title a:hover {
+    text-decoration: none;
+}
