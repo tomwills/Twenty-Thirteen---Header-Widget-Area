@@ -5,11 +5,9 @@
  *
  * Displays all of the <head> section and everything up till <div id="main">
  * 
- * Customised by Tom Wills. Adds widget area to masthead.
+ * Based on the Twenty Thirteen WordPress Theme, Copyright 2013 WordPress.org.
+ * Twenty Thirteen and this child theme are distributed under the terms of the GNU GPL.
  *
- * @package WordPress
- * @subpackage Twenty_Thirteen
- * @since Twenty Thirteen 1.0
  */
 ?>
 <!DOCTYPE html>
