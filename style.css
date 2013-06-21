@@ -1,0 +1,22 @@
+/*
+Theme Name:     Twenty Thirteen - Header Widget Area
+Theme URI:      https://github.com/tomwills/Twenty-Thirteen---Header-widget-area
+Description:    Child theme of Twenty Thirteen. Adds widget area to header.
+Author:         Tom Wills
+Author URI:     https://www.tomwills.net/
+Template:       twentythirteen                             
+Version:        1.0.0
+*/
+
+@import url("../twentythirteen/style.css");
+
+.site-header .widget {
+    float: right;
+    height: 0;
+    background: none;
+    padding-top: 30px;
+}
+
+.site-title, .site-description {
+    clear: none;
+}
