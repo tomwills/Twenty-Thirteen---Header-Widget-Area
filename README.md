@@ -3,10 +3,12 @@ Twenty Thirteen - Header Widget Area
 
 This Wordpress child theme adds a widget area to the header of the Twenty Thirteen theme.
 
+![Screenshot](https://raw.github.com/tomwills/Twenty-Thirteen---Header-Widget-Area/master/screenshot.png)
+
 Installation instructions
 -------------------------
 
-1. Download the theme as a .zip file.
+1. [Download the theme](https://github.com/tomwills/Twenty-Thirteen---Header-Widget-Area/archive/master.zip) as a .zip file.
 
 2. Log in to your Wordpress Dashboard and go to Appearance > Themes.
 
