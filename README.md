@@ -1,4 +1,4 @@
-Twenty-Thirteen---Header-widget-area
+Twenty Thirteen - Header Widget Area
 ====================================
 
 This Wordpress child theme adds a widget area to the header of the Twenty Thirteen theme.
